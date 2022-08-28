@@ -10,3 +10,8 @@ This is a simple program that provides Math integration using the simple formula
 
 - Meaning that the program uses the slope formula in the form f(x)=mx+b
 - This program is unable to compute using negative numbers, **must use positive numbers only!**
+
+
+### A Special Thanks To:
+- Dr. Raridan for teaching me Integration
+- Prof. Thompson for teaching me the basic of Java
