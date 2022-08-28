@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Iteration {
+public class Negative_Iteration {
    public static void main(String[] args){
    Scanner stdin = new Scanner(System.in);
    //Starts Method and starts scanner
