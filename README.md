@@ -13,5 +13,5 @@ This is a simple program that provides Math integration using the simple formula
 
 
 ### A Special Thanks To:
-- Dr. Raridan for teaching me Integration
-- Prof. Thompson for teaching me the basic of Java
+- Dr. Raridan for teaching me Integration and Calc 1
+- Prof. Thompson for teaching me the basic of programing in Java
