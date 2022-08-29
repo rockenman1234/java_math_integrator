@@ -22,6 +22,7 @@ public class Iteration {
    System.out.println("");
    System.out.println("");
    System.out.println("");
+   System.out.println("");
    //Adds Space
       
    System.out.println("The following was inputed");
@@ -36,50 +37,50 @@ public class Iteration {
    System.out.println("");
    //Adds Space
 
-   System.out.println("x-Naught is f(x)=" + (m * x + b));
    Double x_Naught = (m * x + b); //Starts iterations process
-   
+   System.out.println("x-Naught is f(x)=" + x_Naught);
+
    
    //Iteration of f(x) for x_One using x_Naught
-   System.out.println("x-One is f(x)=" + (m * x_Naught + b));
    Double x_One = (m * x_Naught + b);
+   System.out.println("x-One is f(x)=" + x_One);
    
    //Iteration of f(x) for x_Two using x_one
-   System.out.println("x-Two is f(x)=" + (m * x_One + b));
    Double x_Two = (m * x_One + b);
-   
+   System.out.println("x-Two is f(x)=" + x_Two);
+
    //Iteration of f(x) for x_Three using x_Two
-   System.out.println("x-Three is f(x)=" + (m * x_Two + b));
    Double x_Three = (m * x_Two + b);
+   System.out.println("x-Three is f(x)=" + x_Three);
    
    //Iteration of f(x) for x_Four using x_Three
-   System.out.println("x-Four is f(x)=" + (m * x_Three + b));
    Double x_Four = (m * x_Three + b);
+   System.out.println("x-Four is f(x)=" + x_Four);
    
    //Iteration of f(x) for x_Five using x_Four
-   System.out.println("x-Five is f(x)=" + (m * x_Four + b));
    Double x_Five = (m * x_Four + b);
+   System.out.println("x-Five is f(x)=" + x_Five);
    
    //Iteration of f(x) for x_Six using x_Five
-   System.out.println("x-Six is f(x)=" + (m * x_Five + b));
    Double x_Six = (m * x_Five + b);
+   System.out.println("x-Six is f(x)=" + x_Six);
    
    //Iteration of f(x) for x_Seven using x_Six
-   System.out.println("x-Seven is f(x)=" + (m * x_Six + b));
    Double x_Seven = (m * x_Six + b);
+   System.out.println("x-Seven is f(x)=" + x_Seven);
    
    //Iteration of f(x) for x_Eight using x_Seven
-   System.out.println("x-Eight is f(x)=" + (m * x_Seven + b));
    Double x_Eight = (m * x_Seven + b);
-   
+   System.out.println("x-Eight is f(x)=" + x_Eight);
+
    //Iteration of f(x) for x_Nine using x_Eight
-   System.out.println("x-Nine is f(x)=" + (m * x_Eight + b));
    Double x_Nine = (m * x_Eight + b);
-   
+   System.out.println("x-Nine is f(x)=" + x_Nine);
+
    //Iteration of f(x) for x_Ten using x_Nine
-   System.out.println("x-Ten is f(x)=" + (m * x_Nine + b));
    Double x_Ten = (m * x_Nine + b);
-   
+   System.out.println("x-Ten is f(x)=" + x_Ten);
+
    
    stdin.close(); //Closes Scanner
    
