@@ -13,7 +13,7 @@ This is a simple program that provides Math Iteration using the simple formula f
 
 
 #### A Special Thanks To:
-- Dr. Raridan for teaching me Integration and Calc 1
+- Dr. Raridan for teaching me Iterations and Calc 1
 - Prof. Thompson for teaching me the basic of programing in Java
 
 
