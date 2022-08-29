@@ -1,3 +1,5 @@
+//Made by Alex Jenkins For Math 1501 at Clayton State University
+
 import java.util.Scanner;
 
 public class Iteration {
