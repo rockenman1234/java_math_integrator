@@ -1,15 +1,15 @@
-# Java Math Integrator
-A simple math integration program written in Java
+# Java Math Iterations
+A simple math Iteration program written in Java
 
 *Created for Dr. Christopher Raridan's Math 1501 Class at Clayton State University.*
 
 ## Description
-This is a simple program that provides Math integration using the simple formula f(x)=mx+b
+This is a simple program that provides Math Iteration using the simple formula f(x)=mx+b
 
 **This program comes in only one variant, postive.**
 
 - Meaning that the program uses the slope formula in the form f(x)=mx+b
-- This program is unable to compute using negative numbers, **must use positive numbers only!**
+- This program is unable to compute variables using negative numbers, **must use positive numbers only!**
 
 
 #### A Special Thanks To:
