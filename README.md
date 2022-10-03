@@ -4,17 +4,13 @@ A simple math Iteration program written in Java
 *Created for Dr. Christopher Raridan's Math 1501 Class at Clayton State University.*
 
 ## Description
-This is a simple program that provides Math Iteration using the simple formula f(x)=mx+b
+This is a simple program that provides Math Iteration using the formula f(x)=mx+b
 
-**This program comes in only one variant, postive.**
+## New for Version 0.2!
 
-- Meaning that the program uses the slope formula in the form f(x)=mx+b
-- This program is unable to compute variables using negative numbers, **must use positive numbers only!**
+- Codebase overhaul!
 
-
-#### A Special Thanks To:
-- Dr. Raridan for teaching me Iterations and Calc 1
-- Prof. Thompson for teaching me the basic of programing in Java
+- Support for negative numbers!
 
 
 ## How to Run
@@ -51,3 +47,8 @@ javac Iteration.java
 
 java Iteration.java
 ```
+
+
+#### A Special Thanks To:
+- Dr. Christopher Raridan, for teaching me Iterations and Calc 1
+- Prof. Ade Thompson, for teaching me the basic of programing in Java
