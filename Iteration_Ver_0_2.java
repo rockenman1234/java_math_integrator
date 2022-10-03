@@ -12,6 +12,7 @@ Now Supports:
 Need to do:
 - Add a loop to repeat the program and break out of it upon user input
 - Add input-validation to each input
+- Close stdin
 
 
 Student: Kenneth Jenkins
