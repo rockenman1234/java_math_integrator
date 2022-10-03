@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Iteration {
+public class Iteration_Ver_0_1 {
    public static void main(String[] args){
    Scanner stdin = new Scanner(System.in);
    //Starts Method and starts scanner
